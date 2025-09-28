@@ -65,10 +65,11 @@ The models were trained to classify segments into **apnea vs. non-apnea events**
 ---
 
 ## Author
-Afia Zuhaira  
-Tasnim Islam
-Graduate Student, Computer Science, UMBC  
+- Afia Zuhaira  
+  Graduate Student, Computer Science, UMBC  
 
+- Tasnim Islam  
+  Graduate Student, Computer Science, UMBC  
 ---
 
 ## Acknowledgments
