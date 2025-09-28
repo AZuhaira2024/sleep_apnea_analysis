@@ -56,5 +56,7 @@ The models were trained to classify segments into **apnea vs. non-apnea events**
 - Libraries: NumPy, Pandas, Matplotlib, SciPy, scikit-learn, PyTorch, NeuroKit2  
 
 ---
-
-## Repository Structure
+## Future Works
+-Extend to multi-class classification (obstructive apnea, central apnea, hypopnea).
+-Deploy lightweight models for wearable healthcare devices.
+-Real-time inference optimization for streaming signals.
