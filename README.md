@@ -56,7 +56,26 @@ The models were trained to classify segments into **apnea vs. non-apnea events**
 - Libraries: NumPy, Pandas, Matplotlib, SciPy, scikit-learn, PyTorch, NeuroKit2  
 
 ---
-## Future Works
--Extend to multi-class classification (obstructive apnea, central apnea, hypopnea).
--Deploy lightweight models for wearable healthcare devices.
--Real-time inference optimization for streaming signals.
+
+## Future Work
+- Extend to multi-class classification (obstructive apnea, central apnea, hypopnea).  
+- Deploy lightweight models for wearable healthcare devices.  
+- Real-time inference optimization for streaming signals.  
+
+---
+
+## Author
+Afia Zuhaira  
+Tasnim Islam
+Graduate Student, Computer Science, UMBC  
+
+---
+
+## Acknowledgments
+- PhysioNet for providing the MIT-BIH Polysomnographic Database.  
+- NeuroKit2 library for ECG preprocessing tools.  
+- UMBC Neural Engineering coursework for project guidance.  
+
+---
+
+
