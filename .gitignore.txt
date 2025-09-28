@@ -1,0 +1,30 @@
+
+---
+
+# 🚫 .gitignore (Copy–Paste into a file named `.gitignore`)
+
+```gitignore
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files (large PhysioNet datasets)
+data/
+*.csv
+*.mat
+*.edf
+*.npy
+
+# Ignore model checkpoints
+*.pth
+*.pt
+*.h5
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
